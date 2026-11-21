@@ -29,7 +29,6 @@ he/him . $\color{#fcc8ee}{\textbf{extreme}}$ paranoia & sensitive $\color{#b3c0e
 
   
 <details>
-  <summary>Want A Bio Like This?</summary><h5 align="center">
-Hi! I do commissions for GitHub Bios so if you're interested in that, feel free to whisper me<br>
-    You can find me on the Safe Server; The Comic Book area next to the bakery!
+  <summary>My Doctor Strange x Ultron Art</summary><h5 align="center">
+Hai I will put it here later I am tired <br>
   </details>
