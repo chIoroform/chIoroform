@@ -21,3 +21,6 @@ he/him . $\color{#fcc8ee}{\textbf{extreme}}$ paranoia & sensitive $\color{#b3c0e
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qyhyjq8aipmlvd7i2aave81q9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=000000&bar_color_cover=true">
   </a>
 </p>
+<p align="center">
+<a href="https://ultron.atabook.org/" rel="nofollow">新book</a>ㅤ<a href="https://rentry.co/stephen" rel="nofollow">rentry</a>ㅤ<a href="https://straw.page" rel="nofollow">strawpage</a>
+  </a>
