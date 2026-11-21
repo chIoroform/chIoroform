@@ -5,12 +5,12 @@
 <img src="https://file.garden/ZlryIogXzRtJW5Bu/Github/DIATRON1.png" width="67%" height="20%"/><br>
 </p>
   <p align="center">
-　ꣀꦌ　<img src="https://komarev.com/ghpvc/?username=uitrons&style=for-the-badge=plastic&color=fcc8ee&base=10265&label=i+am+a+robot" />　Ꮺ୧ <br>
+　ꣀꦌ　<img src="https://komarev.com/ghpvc/?username=uitrons&style=for-the-badge=plastic&color=9b71c3&base=10265&label=i+am+a+robot" />　Ꮺ୧ <br>
 <p align="center">
   <table align="center">
   <tr><td align="center" width="453">
 <img width="130" height="auto" alt="icon" src="https://file.garden/ZlryIogXzRtJW5Bu/Github/Icon7.png" align="left"/> <img width="275" height="auto" alt="chloroform" src="https://file.garden/ZlryIogXzRtJW5Bu/Github/chloroform.png" align="center"><br/><img width="215" height="auto" alt="divider" src="https://file.garden/ZlryIogXzRtJW5Bu/Github/Divi.png" align="center"/>
-<p align="justify"> Dia $\color{#fcc8ee}{\textbf{or}}$ Ultron $\color{#b3c0e0}{\textbf{𐙚}}$ 23yrs 
+<p align="justify"> Dia $\color{#fcc8ee}{\textbf{or}}$ Ultron $\color{#b3c0e0}{\textbf{𐙚}}$ 23yrs INTJ Oct. 9th
   </p>
   </td></tr>
 </table>
