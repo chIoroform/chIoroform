@@ -1,11 +1,18 @@
+<br/>
+
+<h5 align="center">
 <p align="center">
 <img src="https://file.garden/ZlryIogXzRtJW5Bu/Github/DIATRON1.png" width="67%" height="20%"/><br>
-</p>
-
-
+</p><br/>
   <table align="center">
   <tr><td align="center" width="453">
 <img width="130" height="auto" alt="icon" src="https://file.garden/ZlryIogXzRtJW5Bu/Github/Icon7.png" align="left"/> <img width="275" height="auto" alt="chloroform" src="https://file.garden/ZlryIogXzRtJW5Bu/Github/chloroform.png" align="center"><br/><img width="215" height="auto" alt="divider" src="https://file.garden/ZlryIogXzRtJW5Bu/Github/Divi.png" align="center"/>
 <p align="justify"> wip wip wip
   </p>
   </td></tr>
+</table>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=qyhyjq8aipmlvd7i2aave81q9&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=qyhyjq8aipmlvd7i2aave81q9&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=true&bar_color=000000&bar_color_cover=true">
+  </a>
+</p>
