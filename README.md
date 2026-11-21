@@ -1,4 +1,4 @@
-<br/>
+<div align="center"><br/>
 
 <h5 align="center">
 <p align="center">
@@ -24,3 +24,11 @@ he/him . $\color{#fcc8ee}{\textbf{extreme}}$ paranoia & sensitive $\color{#b3c0e
 <p align="center">
 <a href="https://ultron.atabook.org/" rel="nofollow">新book</a>ㅤ<a href="https://rentry.co/stephen" rel="nofollow">rentry</a>ㅤ<a href="https://straw.page" rel="nofollow">strawpage</a>
   </a>
+</h5>
+
+
+  
+<details>
+  <summary>Want A Bio Like This?</summary><h5 align="center">
+Hi! I do commissions for GitHub Bios so if you're interested in that, feel free to whisper me
+  </details>
