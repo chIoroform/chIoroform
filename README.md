@@ -13,7 +13,7 @@
 <p align="center"> ݁⋆ dia $\color{#fcc8ee}{\textbf{or}}$ ultron $\color{#b3c0e0}{\textbf{𐙚}}$ 23yrs intj oct 9th  ݁˖ .<br>
 he/him . $\color{#fcc8ee}{\textbf{extreme}}$ paranoia & sensitive $\color{#b3c0e0}{\textbf{´ཀ`}}$ <br>
 ⋆˚࿔ i'm a $\color{#b3c0e0}{\textbf{big fan}}$ of all things horror .ᐟ ∔ྀ྇<br>
-  Anybody is welcome to chat with me!
+  anybody is welcome to chat with me!
   </p>
   </td></tr>
 </table>
