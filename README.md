@@ -12,7 +12,8 @@
 <img width="130" height="auto" alt="icon" src="https://file.garden/ZlryIogXzRtJW5Bu/Github/horsie.png" align="left"/> <img width="275" height="auto" alt="chloroform" src="https://file.garden/ZlryIogXzRtJW5Bu/Github/chloroform.png" align="center"><br/><img width="215" height="auto" alt="divider" src="https://file.garden/ZlryIogXzRtJW5Bu/Github/Divi.png" align="center"/>
 <p align="center"> ݁⋆ dia $\color{#fcc8ee}{\textbf{or}}$ ultron $\color{#b3c0e0}{\textbf{𐙚}}$ 23yrs intj oct 9th  ݁˖ .<br>
 he/him . $\color{#fcc8ee}{\textbf{extreme}}$ paranoia & sensitive $\color{#b3c0e0}{\textbf{´ཀ`}}$ <br>
-⋆˚࿔ i'm a $\color{#b3c0e0}{\textbf{big fan}}$ of all things horror .ᐟ ∔ྀ྇
+⋆˚࿔ i'm a $\color{#b3c0e0}{\textbf{big fan}}$ of all things horror .ᐟ ∔ྀ྇<br>
+  Anybody is welcome to chat with me!
   </p>
   </td></tr>
 </table>
