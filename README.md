@@ -1,9 +1,6 @@
 <div align="center"><br/>
 
 <h5 align="center">
-<p align="center">
-<img src="https://file.garden/ZlryIogXzRtJW5Bu/Github/DIATRON1.png" width="67%" height="20%"/><br>
-</p>
   <p align="center">
 　ꣀꦌ　<img src="https://komarev.com/ghpvc/?username=uitrons&style=for-the-badge=plastic&color=9b71c3&base=10265&label=i+am+a+robot" />　Ꮺ୧ <br>
 <p align="center">
