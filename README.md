@@ -23,10 +23,3 @@ he/him . $\color{#fcc8ee}{\textbf{extreme}}$ paranoia & sensitive $\color{#b3c0e
 <a href="https://ultron.atabook.org/" rel="nofollow">新book</a>ㅤ<a href="https://rentry.co/stephen" rel="nofollow">rentry</a>ㅤ<a href="https://straw.page" rel="nofollow">strawpage</a>
   </a>
 </h5>
-
-
-  
-<details>
-  <summary>My Doctor Strange x Ultron Art</summary><h5 align="center">
-Hai I will put it here later I am tired <br>
-  </details>
